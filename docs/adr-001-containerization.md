@@ -87,6 +87,6 @@ We will not, in this initial phase, break ModernApp into many microservices. We 
 ## 5. Status
 
 **Status:** Accepted  
-**Date:** (replace with today's date)  
+**Date:** January 05, 2026
 
 This decision may be revisited if future constraints or requirements change significantly.
